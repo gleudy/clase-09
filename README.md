@@ -7,6 +7,5 @@ Gracias por su comprension.
 ##Github
 Cambios realizados desde github
 
-#Github 2
-Revisando el https
+
 
