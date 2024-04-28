@@ -1,7 +1,5 @@
-# Objetivos de la repositorio
+# Aprendiendo GIT 
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este repositorio es para probar algunas situaciones
 
-
-## Notas
-Pueden hacer lo que quieran...
+Gracias por su comprension.
